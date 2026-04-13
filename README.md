@@ -35,8 +35,8 @@ Vocabulary Explorer is a high-fidelity prototype of a Plains Cree (nêhiyawêwin
 ### Steps
 
 ```bash
-# 1. Navigate into the Code folder
-cd Code
+# 1. Navigate into the prototype folder
+cd prototype
 
 # 2. Install dependencies
 npm install
