@@ -25,6 +25,12 @@ Vocabulary Explorer is a high-fidelity prototype of a Plains Cree (nêhiyawêwin
 
 ---
 
+## Link to Figma
+
+Heres the link to our [figma](https://kilt-dice-04588571.figma.site)
+
+---
+
 ## Installation & Running
 
 ### Prerequisites
