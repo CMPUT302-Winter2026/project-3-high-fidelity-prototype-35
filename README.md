@@ -10,8 +10,8 @@
 |---|---|
 | James Ma | jyma1 |
 | Eason Trang | eason1 |
-| Kempes Pandey | achoang |
-| Amy Hoang | sumantra |
+| Kempes Pandey | sumantra |
+| Amy Hoang | achoang |
 | Harveer Deol | hsdeol1 |
 
 ---
